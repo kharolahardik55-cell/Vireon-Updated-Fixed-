@@ -8,7 +8,7 @@ from emojis import get_emoji
 
 DB_PATH = 'bot.db'
 
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_IDS = {1556915959229321288}
 
 # Emoji Regex pattern: <:name:id> or <a:name:id>
 EMOJI_REGEX = re.compile(r'<(a)?:([a-zA-Z0-9_]+):([0-9]+)>')

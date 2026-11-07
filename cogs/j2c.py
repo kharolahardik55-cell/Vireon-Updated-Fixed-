@@ -7,7 +7,7 @@ import os
 from j2c_icons import get_j2c_emoji
 
 DB_PATH = 'bot.db'
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_IDS = {1556915959229321288}
 USER_DATA_FILE = 'j2c_user_data.json'
 BOT = None
 

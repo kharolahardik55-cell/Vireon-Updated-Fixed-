@@ -7,7 +7,7 @@ from emojis import get_emoji, get_ui_emoji
 import re
 
 DB_PATH = "bot.db"
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_IDS = {1556915959229321288}
 
 def is_valid_url(url: str) -> bool:
     if not url:
