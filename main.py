@@ -81,8 +81,8 @@ load_dotenv()
 token = os.getenv('DISCORD_TOKEN')
 public_key_hex = os.getenv('DISCORD_PUBLIC_KEY')
 
-DEVELOPER_ID = 1458089824350240781
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_ID = 1556915959229321288
+DEVELOPER_IDS = {1556915959229321288}
 main_owners_set = set(DEVELOPER_IDS)
 second_owners_set = set()
 
