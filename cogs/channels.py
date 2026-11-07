@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 from emojis import get_emoji
 
-DEVELOPER_IDS = {1458089824350240781}
+DEVELOPER_IDS = {1556915959229321288}
 
 class ConfirmDeleteView(discord.ui.View):
     def __init__(self, ctx, target_type: str, count: int):
